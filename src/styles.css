@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#counter {
+  font-size: 80px;
+  margin-top: -100px;
+  margin-bottom: -120px;
+}
+#increment,
+#decrement {
+  display: inline-block;
+}
+#increment-button {
+  font-size: 50px;
+  background-color: darkgreen;
+}
+#decrement-button {
+  font-size: 50px;
+  background-color: darkorange;
+}
